@@ -1,0 +1,86 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Conda environments
+.conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Data and results (if you don't want to upload them)
+data/
+results/
+output/
+
+# Python distribution files
+build/
+dist/
+*.egg-info/
+
+#Ignore results files .pkl and .csv
+.pkl
+.csv
+
+#Ignore particular files
+/EDAs comparision/
+/Exps_EDAs/
+/Figures/
+/Prueba_muestreo_GP_1as_pruebas/
+/Tablas/
+/Test/
+Exp_fichero.txt
+Results_analysis.ipynb
+
+#Subfolders
+/CMAES/CMAES_results/
+/CMAES/CMAES_results copy/
+/CMAES/CMAESBO_params/
+
+/EGNA/EGNA_results/
+/EGNA/EGNA_results copy/
+/EGNA/EGNABO_params/
+
+/EGPA_1D_experiments/BO_params/
+EGPA_results/
+ResultadosEXP copy/
+NonLinearSE.ipynb
+QHOExperiments.ipynb
+QHOscnotebook.ipynb
+QHOscNvar.pkl
+
+QDisc/
+/2DBox/BO_params/
+/2DBox/EGPA2D_results/
+Results.pkl
+
+SPEDA/
+
+UMDA_results/
+UMDA_results copy/
+UMDABO_params/
+
+
